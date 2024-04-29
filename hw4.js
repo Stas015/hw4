@@ -10,8 +10,8 @@ var largeNumber = 1e6;
 console.log(largeNumber);
 
 //3. Експоненціальний запис чисел
-var cientificNotation = 1.23e5; // Експоненціальний запис означає 1.23 * 10^5
-console.log(cientificNotation); 
+var scientificNotation = 1.23e5; // Експоненціальний запис означає 1.23 * 10^5
+console.log(scientificNotation); 
 
 //4. Використання об'єкту Math для генерації випадкових чисел:
 var randomNumber = Math.random(); 
